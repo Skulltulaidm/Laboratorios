@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorio de construcción
+/dist
+
+# Otros
+.DS_Store
+.vscode/
+.idea/
